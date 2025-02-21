@@ -1,30 +1,22 @@
-# Project Name
+# val
 
-![Project Banner](![image](https://github.com/user-attachments/assets/8d233bd1-dacd-4a39-8807-d73561e982e3)
-)
+![Project Banner](https://github.com/user-attachments/assets/8d233bd1-dacd-4a39-8807-d73561e982e3)
 
-## 📌 About the Project
-A brief description of your project. Explain what it does and why it is useful.
+Build a mobile application prototype that can record voice conversations and convert them into structured
+digital actions like tasks, calendar events, or meeting notes.
 
-## 🚀 Features
-- Feature 1
-- Feature 2
-- Feature 3
 
 ## 🎥 Demo
 
 ### Screenshots
-![Screenshot 1](![IMG-20250221-WA0012](https://github.com/user-attachments/assets/847f5a74-daed-4738-9bce-e4e85fe6da54)
-)
-![Screenshot 2](![IMG-20250221-WA0013](https://github.com/user-attachments/assets/26a03f24-5a81-4e41-a9bf-df42d44e2aff)
-)
-![Screenshot 3](![IMG-20250221-WA0014](https://github.com/user-attachments/assets/e93d37c1-95cb-4794-97b8-1bd5df65f132)
-)
-![Screenshot 4](![IMG-20250221-WA0011](https://github.com/user-attachments/assets/74c41cca-c40d-4dac-96ed-eada420dab0d)
-)
+![Screenshot 1](https://github.com/user-attachments/assets/847f5a74-daed-4738-9bce-e4e85fe6da54)
+![Screenshot 2](https://github.com/user-attachments/assets/26a03f24-5a81-4e41-a9bf-df42d44e2aff)
+![Screenshot 3](https://github.com/user-attachments/assets/e93d37c1-95cb-4794-97b8-1bd5df65f132)
+![Screenshot 4](https://github.com/user-attachments/assets/74c41cca-c40d-4dac-96ed-eada420dab0d)
 
 ### Video Demo
-[![Watch the Video](path/to/thumbnail.png)](https://drive.google.com/file/d/1cN6Kxup1SP4l_oiU5S-RsSeEVv3S3fjF/view?usp=sharing)
+[![Watch the Video](![image](https://github.com/user-attachments/assets/5816685a-ebf9-4a5e-999e-bc0f1e2cb2f0)
+)](https://drive.google.com/file/d/1cN6Kxup1SP4l_oiU5S-RsSeEVv3S3fjF/view?usp=sharing)
 
 ## 🛠️ Installation
 ```bash
@@ -32,7 +24,7 @@ git clone https://github.com/your-username/your-repo.git
 cd your-repo
 npm install
 npm start
-```
+
 
 ## 📄 Usage
 Instructions on how to use the project.
