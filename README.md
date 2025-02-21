@@ -1,4 +1,4 @@
-# val
+# Smart Voice Assistant for Professionals
 
 ![Project Banner](https://github.com/user-attachments/assets/8d233bd1-dacd-4a39-8807-d73561e982e3)
 
