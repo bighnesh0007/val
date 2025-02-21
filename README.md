@@ -1,7 +1,5 @@
 # Smart Voice Assistant for Professionals
 
-![Project Banner](https://github.com/user-attachments/assets/8d233bd1-dacd-4a39-8807-d73561e982e3)
-
 [![Watch the Video](https://github.com/user-attachments/assets/5816685a-ebf9-4a5e-999e-bc0f1e2cb2f0)](https://drive.google.com/file/d/1cN6Kxup1SP4l_oiU5S-RsSeEVv3S3fjF/view?usp=sharing)
 
 
