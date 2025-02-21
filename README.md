@@ -1,6 +1,7 @@
 # Smart Voice Assistant for Professionals
 
-[![Watch the Video](https://github.com/user-attachments/assets/5816685a-ebf9-4a5e-999e-bc0f1e2cb2f0)](https://drive.google.com/file/d/1cN6Kxup1SP4l_oiU5S-RsSeEVv3S3fjF/view?usp=sharing)
+[Watch the Video](https://drive.google.com/file/d/1cN6Kxup1SP4l_oiU5S-RsSeEVv3S3fjF/view?usp=sharing)
+
 
 
 Build a mobile application prototype that can record voice conversations and convert them into structured
